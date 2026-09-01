@@ -1,3 +1,12 @@
 hi learning github
 git clone url for cloning
 git status -shows where the repo is,its in red colour then working repog
+
+git add filename.txt  --to move from workingto staging area
+git commit -m"yur msg1"    --to move from staging to local repo
+before commit comand it shows up in green colour(its in staging area)
+Branch is for multiple ppl working on same project i.e., various versions of project
+git branch branch name -- to create a branch
+git checkout branchname  --to switch to that specific branch
+git push -u origin main    --to move for remote repo ,origin is remote repo & main is local repo
+git remote add url    --to connect origin to the github repo
