@@ -1,0 +1,3 @@
+hi learning github
+git clone url for cloning
+git status -shows where the repo is,its in red colour then working repog
